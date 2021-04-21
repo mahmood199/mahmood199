@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 
 
 
-Android is my second love, first one is still you baby ❤️
+Android is my second love, first one is still you ❤️
 
 
 
