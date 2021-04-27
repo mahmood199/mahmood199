@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: Developer + Memer + Philosopher =  ME
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahmood199&layout=compact)](https://github.com/mahmood199/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahmood199&layout=demo)](https://github.com/mahmood199/github-readme-stats)
 
 
 
