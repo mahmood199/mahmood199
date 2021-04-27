@@ -9,7 +9,12 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on real life project prefereably some live-streaming app
 - ⚡ Fun fact: Developer + Memer + Philosopher =  ME
 
-<img src ="https://github-readme-stats.vercel.app/api?username=mahmood199&&show_icons=true&title_color=228B22&icon_color=006400&text_color=DC143C&bg_color=0b0730">
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahmood199&layout=compact)](https://github.com/mahmood199/github-readme-stats)
+
+
+
+![Mahmood's GitHub stats](https://github-readme-stats.vercel.app/api?username=mahmood199&show_icons=true&theme=radical)
 
 
 Number of times profile visited  :-   ![Visitor Count](https://profile-counter.glitch.me/{mahmood199}/count.svg)
