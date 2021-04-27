@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 
 
 
-![Mahmood's GitHub stats](https://github-readme-stats.vercel.app/api?username=mahmood199&show_icons=true&theme=radical)
+![Mahmood's GitHub stats](https://github-readme-stats.vercel.app/api?username=mahmood199&show_icons=true&theme=radical&title_color=fffff)
 
 
 Number of times profile visited  :-   ![Visitor Count](https://profile-counter.glitch.me/{mahmood199}/count.svg)
