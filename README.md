@@ -34,4 +34,4 @@
 
 </br>
 
-Number of times profile visited  :-   ![Visitor Count](https://profile-counter.glitch.me/{mahmood199}/count.svg) 
+<p align = "center"> Number of times profile visited  :-  <img src = "https://profile-counter.glitch.me/{mahmood199}/count.svg"/> </p>
