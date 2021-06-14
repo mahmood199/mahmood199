@@ -2,8 +2,7 @@
 
 
 
-- 🔭 I’m currently working on Android
-- 🌱 I’m currently learning **MVC,MVP and MVVM pattern android architrecture**
+- 🔭 I’m currently working on Android + Data Structure and algorithms.
 - 👯 I’m looking to collaborate on real life project prefereably some live-streaming app
 - ⚡ Fun fact: Developer + Memer + Philosopher =  ME
 - 🤓 Transforming slowly into a nerd
