@@ -7,7 +7,7 @@
 - ⚡ Fun fact: Developer + Memer + Philosopher =  ME
 - 🤓 Transforming slowly into a nerd <br/> </br> </br>
 
-<p align = "center"> <img src ="https://wakatime.com/share/@51ff0cab-6ace-4ec9-a1b0-061cd9398064/50e7f7b3-808f-4230-a757-86118834c2c3.svg"/> </p>
+<p align = "center"> <img src ="https://wakatime.com/share/@51ff0cab-6ace-4ec9-a1b0-061cd9398064/50e7f7b3-808f-4230-a757-86118834c2c3.svg" width = "600" height = "600" /> </p>
 
 
 <p align = "center"> <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=mahmood199&layout=demo"/> </p>
