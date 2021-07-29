@@ -8,7 +8,6 @@
 - 🤓 Transforming slowly into a nerd <br/> </br> </br>
 
 
-<p align = "center"> <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=mahmood199&layout=demo"/> </p>
 
 <p align = "center"> <img src = "https://monzo.com/static/images/blog/2016-05-25-android-v1/android.gif" width = "490" height = "300" /> </p>
 
