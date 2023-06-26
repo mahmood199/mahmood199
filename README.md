@@ -29,7 +29,3 @@
 </br>
 
 <p align = "center"> <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=mahmood199" /></p>
-
-
-
-<p align = "center"> Number of times profile visited  :-  <img src = "https://profile-counter.glitch.me/{mahmood199}/count.svg"/> </p>
